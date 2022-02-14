@@ -1,2 +1,1 @@
-# total-penduduk-indonesia
-Total jumlah penduduk Indonesia berdasarkan SP2020 dari Badan Pusat Statistik
+sumber : [BPS](https://sensus.bps.go.id/main/index/sp2020)
